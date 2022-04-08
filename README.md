@@ -3,7 +3,7 @@
 [![Twitter handle][]][Twitter badge]
 [![Discord Chat](https://img.shields.io/discord/684898665143206084?logo=discord&style=social)](https://discord.gg/deno)
 
-<img align="right" src="https://deno.land/logo.svg" height="150px" alt="the deno mascot dinosaur standing in the rain">
+<img align="right" src="https://github.com/pierorolando1/nel/blob/main/docs/logo/nel.png?raw=true" height="150px" alt="the deno mascot dinosaur standing in the rain">
 
 Nel is a _strange_, _modern_ and _secure_ interpreted language and is built in Rust.
 
