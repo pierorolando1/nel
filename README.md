@@ -90,5 +90,5 @@ To contribute, please read our
 [contributing instructions](https://deno.land/manual/contributing).
 
 
-[Twitter badge]: https://twitter.com/intent/follow?screen_name=deno_land
+[Twitter badge]: https://twitter.com/intent/follow?screen_name=pierorolando1_
 [Twitter handle]: https://img.shields.io/twitter/follow/deno_land.svg?style=social&label=Follow
