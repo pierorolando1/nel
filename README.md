@@ -1,7 +1,6 @@
 # Nel
 
 [![Twitter handle][]][Twitter badge]
-[![Discord Chat](https://img.shields.io/discord/684898665143206084?logo=discord&style=social)](https://discord.gg/deno)
 
 <img align="right" src="https://github.com/pierorolando1/nel/blob/main/docs/logo/nel.png?raw=true" height="150px" alt="the deno mascot dinosaur standing in the rain">
 
@@ -91,4 +90,3 @@ To contribute, please read our
 
 
 [Twitter badge]: https://twitter.com/intent/follow?screen_name=pierorolando1_
-[Twitter handle]: https://img.shields.io/twitter/follow/deno_land.svg?style=social&label=Follow
