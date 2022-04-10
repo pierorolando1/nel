@@ -1,7 +1,5 @@
 # Nel
 
-[![Twitter handle][]][Twitter badge]
-
 <img align="right" src="https://github.com/pierorolando1/nel/blob/main/docs/logo/nel.png?raw=true" height="150px" alt="the deno mascot dinosaur standing in the rain">
 
 Nel is a _strange_, _modern_ and _secure_ interpreted language and is built in Rust.
