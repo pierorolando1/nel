@@ -1,3 +1,8 @@
+use clap::StructOpt;
+use repl::start_rpl;
+
+use crate::{parser::Parser, repl::Cli};
+
 mod ast;
 mod lexer;
 mod parser;
@@ -5,9 +10,18 @@ mod repl;
 mod token;
 
 fn main() {
-    let lxer = lexer::Lexer::new("let five = 5;".to_owned());
-    let prser = parser::Parser::new(lxer);
-    let program = prser.parse_program();
+    let lexer = lexer::Lexer::new("".to_owned());
+    let parser = Parser::new(lexer);
+    let program = parser.parse_program();
 
-    println!("Hello, neli!");
+    let args = Cli::parse();
+
+    match args.file {
+        Some(expr) => {
+            println!("File ");
+        }
+        None => {
+            start_rpl();
+        }
+    }
 }
